@@ -127,7 +127,17 @@ Final JSON Response → Rendered in React (Charts + AI Chat)
 
 
 ---
+## 📸 Project Screenshots
 
+Here are some screenshots showcasing the dashboard, AI chat, and various data visualizations.
+
+![AI powered personal finance dashboard](P1.jpg)
+
+![AI powered personal finance dashboard](P2.jpg)
+
+![AI powered personal finance dashboard](P3.jpg)
+
+---
 ## 🌟 Final Note
 This project demonstrates how AI can **“Speak to Your Money”** by combining structured data, interactive visualization, and AI-driven insights to empower better financial decision-making.  
 
